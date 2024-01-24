@@ -2,6 +2,10 @@
 
 This repository presents a comparative study involving a model employing the Vision-Language approach for medical image interpretation and several other trained models. The primary focus is on assessing the effectiveness of the Vision-Language model in this context.
 
+## Data
+
+The open-source MosMedData+ dataset was utilized for training and evaluating the models in this repository.
+
 ## Model Comparison
 
 The models trained and evaluated in this project are as follows:
@@ -19,7 +23,7 @@ The models trained and evaluated in this project are as follows:
      
 ## Results
 
-Here is a summary of the results obtained from the evaluation of each model:
+The results presented below are based on the evaluation of each model using the MosMedData+ dataset:
 
 | Model | Accuracy | Precision| Recall | IOU Score | Dice Score |
 |-------|-----------|--------|----------|-----------|------------|
