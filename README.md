@@ -1,4 +1,4 @@
-# Medical Image Analysis Models
+# Medical Image Segmentation Models
 
 This repository presents a comparative study involving a model employing the Vision-Language approach for medical image interpretation and several other trained models. The primary focus is on assessing the effectiveness of the Vision-Language model in this context.
 
